@@ -16,7 +16,7 @@ resources:
     repository: ((git-repo))
     states:
       - OPEN
-      
+       
 
 
 jobs:
