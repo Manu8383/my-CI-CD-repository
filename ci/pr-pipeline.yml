@@ -16,6 +16,7 @@ resources:
     repository: ((git-repo))
     states:
       - OPEN
+      
 
 jobs:
 - name: build-spring-boot
